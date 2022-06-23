@@ -14,7 +14,7 @@ Open BurpSuite and go to "proxy", then press "intercept" and "open in browser".
 
 A chromium tab will be displayed, then complete the form with any string. Press enter, then go to the BurpSuite window and press "forward". 
 
-In the console will appear the string "name=<name>"
+In the console will appear the string "name=InsertedName"
 
 Change the string to "name=Lord Voldemort" and press "forward"
 
