@@ -7,7 +7,7 @@ techcamp.jinblack.it:2009
 
 Press the Big BLue button in the center of the page, a new page will be loaded.
 
-There you can find a form, open ghe inspector and select the form, there will be a comment hiding the option "dragon".
+There you can find a form, open the inspector and select the form, there will be a comment hiding the option "dragon".
 
 Remove the comment and insert your nickname, then press enter.
 
